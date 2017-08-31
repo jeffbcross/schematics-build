@@ -1,6 +1,6 @@
 {
   "name": "@nrwl/schematics",
-  "version": "0.0.1+599e2cb",
+  "version": "0.0.1+6ace3a0",
   "description": "Angular Extensions: Schematics",
   "main": "index.js",
   "peerDependencies": {
